@@ -1,0 +1,11 @@
+e:\PROGRAMACAO_2019\C#_2\desafio\bin\Debug\netcoreapp3.0\desafio.exe
+E:\PROGRAMACAO_2019\C#_2\desafio\bin\Debug\netcoreapp3.0\desafio.deps.json
+E:\PROGRAMACAO_2019\C#_2\desafio\bin\Debug\netcoreapp3.0\desafio.runtimeconfig.json
+E:\PROGRAMACAO_2019\C#_2\desafio\bin\Debug\netcoreapp3.0\desafio.runtimeconfig.dev.json
+e:\PROGRAMACAO_2019\C#_2\desafio\bin\Debug\netcoreapp3.0\desafio.dll
+e:\PROGRAMACAO_2019\C#_2\desafio\bin\Debug\netcoreapp3.0\desafio.pdb
+e:\PROGRAMACAO_2019\C#_2\desafio\obj\Debug\netcoreapp3.0\desafio.csprojAssemblyReference.cache
+e:\PROGRAMACAO_2019\C#_2\desafio\obj\Debug\netcoreapp3.0\desafio.AssemblyInfoInputs.cache
+e:\PROGRAMACAO_2019\C#_2\desafio\obj\Debug\netcoreapp3.0\desafio.AssemblyInfo.cs
+e:\PROGRAMACAO_2019\C#_2\desafio\obj\Debug\netcoreapp3.0\desafio.dll
+e:\PROGRAMACAO_2019\C#_2\desafio\obj\Debug\netcoreapp3.0\desafio.pdb
